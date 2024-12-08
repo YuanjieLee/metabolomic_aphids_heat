@@ -6,13 +6,13 @@ The scripts perform various tasks such as survival curve plotting, principal com
 Contents
 Scripts
 1-Survive_curve_fig1.R
-Script for generating survival curves to visualize experimental data.
+Script for computing median lethal time and generating survival curves to visualize experimental data.
 
 2-exp1_pca.R
-Performs PCA for Experiment 1, exploring variance and identifying patterns in the dataset.
+Performs PCA for Experiment 1, exploring variance and identifying patterns between different treatments.
 
 3-exp2_pca.R
-Performs PCA for Experiment 2, building on similar methodologies as Experiment 1.
+Performs PCA for Experiment 2, exploring variance and identifying patterns between different treatments.
 
 4-Univariate_analysis-experiment1.R
 Conducts univariate statistical analysis for Experiment 1 to identify changes in individual metabolites level.
